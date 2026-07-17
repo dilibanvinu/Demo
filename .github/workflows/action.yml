@@ -8,7 +8,7 @@ on:
 
 jobs:
 # First job
-Hellow-world:
+Hello-world:
   runs-on: ubuntu-latest
 
   steps:
