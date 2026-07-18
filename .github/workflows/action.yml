@@ -1,13 +1,10 @@
-# Workflow Name
 name: First Workflow
 
-# Trigger
 on:
   push:
   workflow_dispatch:
 
 jobs:
-  # First job
   hello-world:
     runs-on: ubuntu-latest
 
