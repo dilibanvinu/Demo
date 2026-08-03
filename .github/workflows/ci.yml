@@ -29,3 +29,6 @@ jobs:
     -name : Build application
      run: nmp run build
     
+    on :
+    workflow_dispatch:
+    
